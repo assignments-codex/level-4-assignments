@@ -1,7 +1,9 @@
 #### Goal
+
 Start an Express server and return JSON from two GET routes that imitate a public API.
 
 #### Steps
+
 1. Stand up Express and add a root route that returns JSON.
 2. Pick any public API and model two GET route responses after it.
 3. Extra practice if you want

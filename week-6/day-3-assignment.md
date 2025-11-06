@@ -1,14 +1,18 @@
 #### Objective
+
 JSON API from Lambda
 
 #### Requirements
+
 1. Lambda reads a query string parameter and returns JSON.
 2. Return 400 when the required parameter is missing.
 
 #### Submission
+
 Git repo link and API URL
 
 #### Rubric (20 pts)
+
 - Lambda and API work end to end 0–5
 - Error handling present 0–5
 - Project runs from README 0–5
