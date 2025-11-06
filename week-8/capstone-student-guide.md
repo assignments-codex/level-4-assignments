@@ -7,7 +7,7 @@ You’ll build a **small full-stack web app** and present it on Friday in an int
 - A **React frontend** on **Netlify**
 - An **Express API** on **Render**
 - A **Supabase** database with at least one table
-- A short, working demo that shows how data moves from **frontend → backend → database**
+- A short, working demo that shows how data moves from **frontend -> backend -> database**
 
 This project is about **functionality and clarity**, not design.
 
@@ -33,7 +33,7 @@ Make sure your project includes all of the following:
 ## Friday presentation (10–12 minutes total)
 
 1. **Live demo** (≈2 min)
-   Show your working flow: how data moves from UI → API → DB → back.
+   Show your working flow: how data moves from UI -> API -> DB -> back.
 2. **Code walkthrough** (≈3–4 min)
    Open one React file and one Express route; explain how they connect.
 3. **Q&A** (≈2–3 min)
@@ -75,7 +75,7 @@ Keep it small, clear, and testable.
 
 ## Student rubric (100 points)
 
-**1) Live coding — 50 pts**
+**1) Live coding - 50 pts**
 
 - Correct, runnable code (0–10)
 - Clear understanding of API and database flow (0–10)
@@ -83,13 +83,13 @@ Keep it small, clear, and testable.
 - Idiomatic JS and organized logic (0–10)
 - Explains thinking clearly while coding (0–10)
 
-**2) Code explanation — 30 pts**
+**2) Code explanation - 30 pts**
 
-- Clear architecture (frontend → backend → DB) (0–10)
+- Clear architecture (frontend -> backend -> DB) (0–10)
 - Explains how data is fetched and updated (0–10)
 - Understands auth, keys, or config basics (0–10)
 
-**3) Presentation & professionalism — 20 pts**
+**3) Presentation & professionalism - 20 pts**
 
 - Live demo works and is shown first (0–5)
 - Clear communication and timing (0–5)
