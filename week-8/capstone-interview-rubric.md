@@ -4,38 +4,36 @@ Use on Friday. Each student presents as if interviewing for a developer role: sh
 
 ---
 
-## Evaluator Flow (10–12 minutes total)
+## Evaluator Flow (10-12 minutes total)
 
-1. **Live demo** (≈2 min): show frontend -> backend -> database flow.
-2. **Code walkthrough** (≈3–4 min): selected files/routes/components; explain design and data flow.
-3. **Q&A on code** (≈2–3 min): evaluator selects areas; student explains to confirm understanding.
-4. **Live coding** (≈3–4 min, no AI): implement a small task from the list below.
+1. **Live demo** (about 2 min): show frontend -> backend -> database flow.
+2. **Code walkthrough** (about 3-4 min): selected files/routes/components; explain design and data flow.
+3. **Q&A on code** (about 2-3 min): evaluator selects areas; student explains to confirm understanding.
+4. **Live coding** (about 3-4 min, no AI): implement a small task from the list below.
 
-_Tips: Look for clear communication, working end-to-end flow, and deployment readiness (Netlify + Render + Supabase)._
+*Tips: Look for clear communication, working end-to-end flow, and deployment readiness (Netlify + Render + Supabase).*
 
 ---
 
 ## Scoring (100 points)
 
-- **A. Live coding – 50 pts total** _(award 0/5/10 pts for each item)_
+- **A. Live coding - 50 pts total** *(award 0/5/10 pts for each item)*
 
   - Correct, runnable solution to the prompt.
   - Input validation or safe error handling (status codes, try/catch, etc.).
   - Clear, idiomatic JS (organized logic, good naming).
   - Think-aloud reasoning while coding.
   - Quick test or self-check (curl/Postman/console) before finishing.
-
-- **B. Explaining code – 30 pts total** _(award 0/5/10 pts for each item)_
+- **B. Explaining code - 30 pts total** *(award 0/5/10 pts for each item)*
 
   - Architecture intent & trade-offs (why this structure, stack, or approach).
   - Data flow & request handling (React -> Express -> Supabase).
   - Constraints & alternatives (auth, keys, performance, validation).
-
-- **C. Presentation & professionalism – 20 pts total** _(5 pts each)_
+- **C. Presentation & professionalism - 20 pts total** *(5 pts each)*
 
   - Live links first; clear working demo.
   - Concise, accurate communication; technical vocabulary used correctly.
-  - Organized delivery; stays within 10–12 minutes.
+  - Organized delivery; stays within 10-12 minutes.
   - Q&A handled clearly; acknowledges unknowns and suggests next steps.
 
 **Total:** \_\_/100

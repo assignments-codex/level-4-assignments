@@ -13,7 +13,7 @@ Git repo link and API URL
 
 #### Rubric (20 pts)
 
-- Lambda and API work end to end 0–5
-- Error handling present 0–5
-- Project runs from README 0–5
-- Configuration clarity 0–5
+- Lambda and API work end to end 0-5
+- Error handling present 0-5
+- Project runs from README 0-5
+- Configuration clarity 0-5

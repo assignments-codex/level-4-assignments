@@ -1,23 +1,19 @@
 #### Objective
 
-Stabilize and refine. Prepare to present.
+Stabilize and refine
 
 #### Requirements
 
-1. Smoke test from a fresh clone: install, env, start both apps. Resolve any blockers you hit.
-2. Server: centralized error handler returns a consistent JSON shape { "error": "message" }.
-3. Server: CORS configured for your live frontend (if deployed) and localhost.
-4. Client: add input validation on the create form and show a short error message.
-5. Client: add a visible loading placeholder and a clear empty state.
-6. Repo hygiene: update README with install, env, start steps for both apps; include live links if deployed. Ensure .env.example files are complete.
+1. Fix two issues found during integration.
+2. Add one quality improvement such as a loading placeholder or input validation.
 
 #### Submission
 
-Repo link(s). Live URLs if deployed.
+Git repo link(s)
 
 #### Rubric (20 pts)
 
-- Runs cleanly from README 0-5
-- Consistent error model and CORS set correctly 0-5
-- Validation + loading/empty states in UI 0-5
-- Configuration clarity and .env.example present 0-5
+- Issues resolved 0-5
+- Quality improvement added 0-5
+- Project runs from README 0-5
+- Code organization 0-5

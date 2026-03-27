@@ -13,6 +13,6 @@ Git repo link
 
 #### Rubric (20 pts)
 
-- Route returns JSON live 0–10
-- Working project structure 0–5
-- Clear, readable code 0–5
+- Route returns JSON live 0-10
+- Working project structure 0-5
+- Clear, readable code 0-5

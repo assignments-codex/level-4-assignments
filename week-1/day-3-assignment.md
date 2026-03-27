@@ -13,7 +13,7 @@ Git repo link
 
 #### Rubric (20 pts)
 
-- Routes behave as described 0–5
-- Status codes appropriate 0–5
-- Project runs from README 0–5
-- Code organization 0–5
+- Routes behave as described 0-5
+- Status codes appropriate 0-5
+- Project runs from README 0-5
+- Code organization 0-5

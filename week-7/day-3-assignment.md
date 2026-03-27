@@ -1,20 +1,19 @@
 #### Objective
 
-Two flows end to end: one read, one write.
+Two flows end to end
 
 #### Requirements
 
-1. Server has POST /api/items that validates a non-empty title and returns 201 with the created row. On invalid input return 400 with { "error": "message" }.
-2. Client has a small form to create an item. On success, show the new item. On error, show a friendly message.
-3. Keep the Day 2 list working. Loading, success, and error states are visible.
+1. Implement one read flow and one write flow using your API.
+2. Handle loading, success, and error states in the UI.
 
 #### Submission
 
-Git repo link(s). Note what you validated on the server and on the client.
+Git repo link(s)
 
 #### Rubric (20 pts)
 
-- Read flow works 0-5
-- Write flow works with 201 0-5
-- Validation and error messages present 0-5
-- Code organization is clear 0-5
+- Two flows work 0-5
+- Errors handled in UI 0-5
+- Project runs from README 0-5
+- Code organization 0-5

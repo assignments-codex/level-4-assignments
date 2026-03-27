@@ -1,20 +1,29 @@
 #### Objective
 
-Monitoring and a short runbook
+Interview on a JSON API built with Lambda and API Gateway.
 
 #### Requirements
 
-1. Logs show request ids and key events.
-2. Add one alarm or metric for a failure case.
-3. Provide a brief runbook describing test steps and where to view logs.
+1. Live session with a TA or instructor.
+2. Open your deployed API URL and the linked Lambda in the console.
+3. Send a request with the required query parameter (for example, ?name=alice) and show a 200 response with JSON.
+4. Send a request without the parameter and show a 400 response with a JSON error message.
+5. Explain where the handler reads the query parameter, how status codes are set, and how API Gateway is configured for the route.
+
+#### Live tasks (perform one or two as requested)
+
+- Modify the request to use a different parameter value and verify the JSON output updates.
+- Trigger the missing-parameter path and confirm the 400 behavior and error body.
+- Add a quick log statement and show it in CloudWatch logs.
+- Point to the exact endpoint path and required parameter in your README.
 
 #### Submission
 
-Git repo link and a link or screenshot reference in README for the alarm/metric
+Git repo link and API URL.
 
 #### Rubric (20 pts)
 
-- Monitoring evidence 0–5
-- Alarm or metric configured 0–5
-- Project runs from README 0–5
-- Runbook clarity 0–5
+- Lambda and API work end to end 0-5
+- Error handling present 0-5
+- Project runs from README 0-5
+- Configuration clarity 0-5

@@ -13,7 +13,7 @@ Git repo link
 
 #### Rubric (20 pts)
 
-- Chosen operations work 0–5
-- Errors and statuses consistent 0–5
-- Project runs from README 0–5
-- Code organization 0–5
+- Chosen operations work 0-5
+- Errors and statuses consistent 0-5
+- Project runs from README 0-5
+- Code organization 0-5

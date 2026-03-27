@@ -1,4 +1,4 @@
-You’ll build a **small full-stack web app** and present it on Friday in an interview-style session. You are **not graded on theme or visuals**. Focus on **getting your stack wired up** and **showing one working user flow** from front to back.
+You'll build a **small full-stack web app** and present it on Friday in an interview-style session. You are **not graded on theme or visuals**. Focus on **getting your stack wired up** and **showing one working user flow** from front to back.
 
 ---
 
@@ -30,22 +30,18 @@ Make sure your project includes all of the following:
 
 ---
 
-## Friday presentation (10–12 minutes total)
+## Friday presentation (10-12 minutes total)
 
-1. **Live demo** (≈2 min)
-   Show your working flow: how data moves from UI -> API -> DB -> back.
-2. **Code walkthrough** (≈3–4 min)
-   Open one React file and one Express route; explain how they connect.
-3. **Q&A** (≈2–3 min)
-   Be ready to explain your API endpoints and data structure.
-4. **Live coding** (≈3–4 min, no AI)
-   A short Level-4 task chosen by your instructor.
+1. **Live demo** (about 2 min) Show your working flow: how data moves from UI -> API -> DB -> back.
+2. **Code walkthrough** (about 3-4 min) Open one React file and one Express route; explain how they connect.
+3. **Q&A** (about 2-3 min) Be ready to explain your API endpoints and data structure.
+4. **Live coding** (about 3-4 min, no AI) A short Level-4 task chosen by your instructor.
 
 ---
 
 ## Live-coding demonstration (what to expect)
 
-You’ll perform one small coding task related to this course, such as:
+You'll perform one small coding task related to this course, such as:
 
 - Creating a **new API route** that returns or filters data from Supabase.
 - Adding a **POST** or **PATCH** endpoint with basic validation.
@@ -77,24 +73,24 @@ Keep it small, clear, and testable.
 
 **1) Live coding - 50 pts**
 
-- Correct, runnable code (0–10)
-- Clear understanding of API and database flow (0–10)
-- Handles a simple edge case or validation (0–10)
-- Idiomatic JS and organized logic (0–10)
-- Explains thinking clearly while coding (0–10)
+- Correct, runnable code (0-10)
+- Clear understanding of API and database flow (0-10)
+- Handles a simple edge case or validation (0-10)
+- Idiomatic JS and organized logic (0-10)
+- Explains thinking clearly while coding (0-10)
 
 **2) Code explanation - 30 pts**
 
-- Clear architecture (frontend -> backend -> DB) (0–10)
-- Explains how data is fetched and updated (0–10)
-- Understands auth, keys, or config basics (0–10)
+- Clear architecture (frontend -> backend -> DB) (0-10)
+- Explains how data is fetched and updated (0-10)
+- Understands auth, keys, or config basics (0-10)
 
 **3) Presentation & professionalism - 20 pts**
 
-- Live demo works and is shown first (0–5)
-- Clear communication and timing (0–5)
-- Organized repo and README (0–5)
-- Confident handling of Q&A (0–5)
+- Live demo works and is shown first (0-5)
+- Clear communication and timing (0-5)
+- Organized repo and README (0-5)
+- Confident handling of Q&A (0-5)
 
 **Total:** \_\_/100
 
@@ -104,7 +100,7 @@ Keep it small, clear, and testable.
 
 - Keep it **small and stable**. One clean flow > several unfinished ones.
 - **Test your deployment early** (Render and Netlify often need minor config fixes).
-- Use **environment variables** for Supabase keys; don’t hardcode them.
+- Use **environment variables** for Supabase keys; don't hardcode them.
 - Make sure you can **run a full demo without editing code**.
 - **Practice your demo**: show the live app, then the key files.
 - Have **your .env.example** ready so the instructor can clone and test it.
