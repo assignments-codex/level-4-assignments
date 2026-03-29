@@ -1,10 +1,17 @@
 #### Goal
 
-Build the core routes
+Send data from React to Flask with a form.
 
 #### Steps
 
-1. Implement create, list, and read by id using your service layer.
-2. Keep responses small and consistent. Return appropriate status codes.
-3. Extra practice if you want
-   - add one filter or sort on the list route
+1. Complete what we built in lecture.
+2. Build a controlled form in React.
+3. Send the form data to Flask.
+4. Return a response from Flask and show it in the UI.
+5. Keep the user flow simple and easy to explain.
+
+#### Extra practice if you want
+
+- Clear the form after submit.
+- Show a success message.
+- Add a second field to the form.

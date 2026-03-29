@@ -1,12 +1,17 @@
 #### Goal
 
-Connect to Supabase and define one table
+Set up your first Flask app and return data from simple routes.
 
 #### Steps
 
-1. Create a Supabase project and database.
-2. In the SQL editor, create a table for your resource with an id and a couple of fields.
-3. Set env vars in your server: SUPABASE\_URL and SUPABASE\_ANON\_KEY (or server key on the server side only).
-4. Extra practice if you want
-   - insert two rows from the SQL editor
-   - create a quick README section with the table name and columns
+1. Complete what we built in lecture.
+2. Create a Flask app that runs locally.
+3. Add a root route.
+4. Add at least one route that returns JSON.
+5. Be ready to explain what happens when a request hits a Flask route.
+
+#### Extra practice if you want
+
+- Add a second JSON route.
+- Return a list of objects.
+- Change one route to return different data.

@@ -1,19 +1,26 @@
 #### Objective
 
-CRUD slice in memory
+Build a small Python program that reads and writes simple data.
 
 #### Requirements
 
-1. Implement GET all, POST create, and either GET by id or DELETE by id.
-2. Use 201 on create, 404 when missing, and JSON error bodies.
+1. Create a Python project that runs from the terminal.
+2. Read data from a text file or JSON file.
+3. Write new data to that file.
+4. Use functions to organize the code.
+5. Import at least one function from another Python file.
+6. Include a short README that explains:
+   - what the program does
+   - how to run it
+   - what file it reads or writes
 
 #### Submission
 
-Git repo link
+GitHub repo link
 
 #### Rubric (20 pts)
 
-- Chosen operations work 0-5
-- Errors and statuses consistent 0-5
-- Project runs from README 0-5
-- Code organization 0-5
+- Meets the objective 0-5
+- File reading and writing work correctly 0-5
+- Functions and modules are used correctly 0-5
+- Code is organized and readable 0-5

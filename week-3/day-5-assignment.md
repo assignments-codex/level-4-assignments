@@ -1,19 +1,25 @@
 #### Objective
 
-Deploy the API
+Build a small full stack app with one clear user flow.
 
 #### Requirements
 
-1. Deploy the server on render.com and keep Supabase as the database.
-2. Provide a base URL. Confirm at least one public and one guarded route respond.
+1. Use React for the frontend and Flask for the backend.
+2. Display data from the backend.
+3. Add at least one form or button that sends data to the backend.
+4. Keep the app focused on one main feature.
+5. Make the user flow easy to demo and explain.
+6. Include a short README that explains:
+   - what the app does
+   - how to run both parts of the project
 
 #### Submission
 
-Git repo link and Render URL
+GitHub repo link
 
 #### Rubric (20 pts)
 
-- Deployed and reachable 0-5
-- Public and guarded routes respond 0-5
-- Project runs from README 0-5
-- Configuration clarity 0-5
+- Meets the objective 0-5
+- Main user flow works correctly 0-5
+- Frontend and backend connection is clear 0-5
+- Code is organized and readable 0-5

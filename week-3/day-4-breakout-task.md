@@ -1,10 +1,17 @@
 #### Goal
 
-Guard one route and add logs
+Practice building a clear full stack user flow.
 
 #### Steps
 
-1. Add a header-based guard that checks x-api-key for one protected route.
-2. Add a request logger that prints method, path, and elapsed ms.
-3. Extra practice if you want
-   - return a clear 401 JSON object on failure
+1. Complete what we built in lecture.
+2. Keep your React and Flask projects connected.
+3. Add one more user action that uses the backend.
+4. Improve the way the data is displayed after a request.
+5. Be ready to explain the full flow from the button or form to the backend and back to the page.
+
+#### Extra practice if you want
+
+- Add a second component.
+- Add a small filter or search field.
+- Improve the layout so the user flow is easier to follow.

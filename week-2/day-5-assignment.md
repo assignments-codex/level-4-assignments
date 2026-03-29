@@ -1,28 +1,22 @@
 #### Objective
 
-Interview on creating and listing items with Supabase.
+Interview on Weeks 1-2 skills.
 
 #### Requirements
 
-1. Live session with a TA or instructor.
-2. Run your server locally or show the deployed endpoint.
-3. Show POST /items inserting a row using the Supabase client (env vars only, no secrets in code).
-4. Show GET /items returning rows including the newly inserted item.
-5. Explain where the Supabase client is initialized and which environment variables are required.
-
-#### Live tasks (perform one or two as requested)
-
-- Insert another item and verify it appears in the GET /items response.
-- Show the exact env vars you use (for example SUPABASE\_URL and a server key) and how they are loaded.
-- Trigger and handle an insert error (missing field or bad type) and return a clear JSON error.
+1. Live session with a TA or Instructor.
+2. Be ready to explain a basic Python project, including functions, loops, file work, modules, and installed packages.
+3. Be ready to explain a basic Flask app with routes and JSON responses.
+4. Be ready to explain how you tested your API in Postman.
+5. Be ready to make one small change during the interview.
 
 #### Submission
 
-Git repo link. Include a README with run steps and the env var names required.
+GitHub repo link
 
 #### Rubric (20 pts)
 
-- POST inserts through Supabase 0-5
-- GET lists through Supabase 0-5
-- Project runs from README 0-5
-- Code organization 0-5
+- Clear explanation of code and choices 0-5
+- Live task completed 0-5
+- Project runs correctly 0-5
+- Communication within time 0-5

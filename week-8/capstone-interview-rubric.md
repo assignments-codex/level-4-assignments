@@ -1,70 +1,36 @@
-# Level-4 Capstone
+# Level 4 Capstone - Interview Rubric
 
-Use on Friday. Each student presents as if interviewing for a developer role: show the live app, walk through code, answer questions, and complete a short **live-coding** exercise. For team projects, assess each student individually.
+## Objective
 
----
+Evaluate whether the student can explain, demo, and discuss a working full stack application.
 
-## Evaluator Flow (10-12 minutes total)
+## Interview format
 
-1. **Live demo** (about 2 min): show frontend -> backend -> database flow.
-2. **Code walkthrough** (about 3-4 min): selected files/routes/components; explain design and data flow.
-3. **Q&A on code** (about 2-3 min): evaluator selects areas; student explains to confirm understanding.
-4. **Live coding** (about 3-4 min, no AI): implement a small task from the list below.
+The student should be ready to:
 
-*Tips: Look for clear communication, working end-to-end flow, and deployment readiness (Netlify + Render + Supabase).*
+1. demo the app
+2. explain the main user flow
+3. show the frontend and backend code
+4. explain how the database is used
+5. answer follow-up questions
 
----
+## Rubric (100 points)
 
-## Scoring (100 points)
+### Project functionality - 40 pts
 
-- **A. Live coding - 50 pts total** *(award 0/5/10 pts for each item)*
+- Main user flow works 0-10
+- Frontend and backend are connected 0-10
+- Database feature works 0-10
+- App is ready to demo 0-10
 
-  - Correct, runnable solution to the prompt.
-  - Input validation or safe error handling (status codes, try/catch, etc.).
-  - Clear, idiomatic JS (organized logic, good naming).
-  - Think-aloud reasoning while coding.
-  - Quick test or self-check (curl/Postman/console) before finishing.
-- **B. Explaining code - 30 pts total** *(award 0/5/10 pts for each item)*
+### Code explanation - 30 pts
 
-  - Architecture intent & trade-offs (why this structure, stack, or approach).
-  - Data flow & request handling (React -> Express -> Supabase).
-  - Constraints & alternatives (auth, keys, performance, validation).
-- **C. Presentation & professionalism - 20 pts total** *(5 pts each)*
+- Explains the React side clearly 0-10
+- Explains the Flask side clearly 0-10
+- Explains the database flow clearly 0-10
 
-  - Live links first; clear working demo.
-  - Concise, accurate communication; technical vocabulary used correctly.
-  - Organized delivery; stays within 10-12 minutes.
-  - Q&A handled clearly; acknowledges unknowns and suggests next steps.
+### Communication and understanding - 30 pts
 
-**Total:** \_\_/100
-
----
-
-## Live-coding demonstration
-
-Student will complete one short task, such as:
-
-- Add or modify an **Express route** that reads/writes data in Supabase.
-- Add **input validation** or error handling in an API endpoint.
-- Write a **React function** that fetches data from the API and renders it.
-- Show how to handle **loading or error states** in the UI.
-- Add a **new field or table** in Supabase and adjust one route accordingly.
-
-> Equivalent tasks of similar scope are acceptable. Brief verification via console or Postman is encouraged.
-
----
-
-## Evidence & notes (for evaluator)
-
-- Live URL: \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\***
-- API URL: \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\***
-- Repo URL: \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\***
-- Code areas discussed: \***\*\*\*\*\***\*\*\***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\***\*\*\***\*\*\*\*\***
-- Follow-ups / feedback: \***\*\*\*\*\***\*\*\***\*\*\*\*\***\_\_\_\***\*\*\*\*\***\*\*\***\*\*\*\*\***
-
----
-
-### Passing guidance
-
-- Typical pass: **70+/100** with a working live-coding solution and clear explanations.
-- Flag for re-review if live-coding fails **and** the student cannot explain their API or data flow.
+- Answers questions clearly 0-10
+- Understands project structure 0-10
+- Can explain choices and next steps 0-10

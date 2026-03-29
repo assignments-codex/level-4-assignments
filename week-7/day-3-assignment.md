@@ -1,19 +1,26 @@
 #### Objective
 
-Two flows end to end
+Deploy a React frontend with S3 and CloudFront.
 
 #### Requirements
 
-1. Implement one read flow and one write flow using your API.
-2. Handle loading, success, and error states in the UI.
+1. Build the React app for production.
+2. Upload the production build to S3.
+3. Deliver the app through CloudFront.
+4. Make sure the live frontend loads correctly.
+5. Keep the deployment steps simple enough to explain.
+6. Include a short README that explains:
+   - how you built the frontend
+   - how you deployed it
+   - what live URL is working
 
 #### Submission
 
-Git repo link(s)
+GitHub repo link
 
 #### Rubric (20 pts)
 
-- Two flows work 0-5
-- Errors handled in UI 0-5
-- Project runs from README 0-5
-- Code organization 0-5
+- Meets the objective 0-5
+- Frontend deployment works correctly 0-5
+- S3 and CloudFront are used correctly 0-5
+- Code and project setup are organized 0-5

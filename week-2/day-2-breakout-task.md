@@ -1,11 +1,17 @@
 #### Goal
 
-Read data from Supabase with the Supabase JS client
+Practice common Flask route patterns and test them with Postman.
 
 #### Steps
 
-1. Install the Supabase JS client and initialize it in your server code using env vars.
-2. Implement GET /items that selects rows from your table and returns JSON.
-3. Return 500 with a JSON error body on unexpected errors.
-4. Extra practice if you want
-   - implement GET /items/:id that returns 404 when not found
+1. Complete what we built in lecture.
+2. Add a route parameter to one endpoint.
+3. Add a query parameter to one endpoint.
+4. Add a POST route that accepts JSON.
+5. Test each route in Postman.
+
+#### Extra practice if you want
+
+- Return different data based on the parameter.
+- Add a second POST route.
+- Store posted data in a simple list while the server is running.

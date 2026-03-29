@@ -1,29 +1,22 @@
 #### Objective
 
-Interview on a JSON API built with Lambda and API Gateway.
+Interview on Weeks 5-6 skills.
 
 #### Requirements
 
-1. Live session with a TA or instructor.
-2. Open your deployed API URL and the linked Lambda in the console.
-3. Send a request with the required query parameter (for example, ?name=alice) and show a 200 response with JSON.
-4. Send a request without the parameter and show a 400 response with a JSON error message.
-5. Explain where the handler reads the query parameter, how status codes are set, and how API Gateway is configured for the route.
-
-#### Live tasks (perform one or two as requested)
-
-- Modify the request to use a different parameter value and verify the JSON output updates.
-- Trigger the missing-parameter path and confirm the 400 behavior and error body.
-- Add a quick log statement and show it in CloudWatch logs.
-- Point to the exact endpoint path and required parameter in your README.
+1. Live session with a TA or Instructor.
+2. Be ready to explain reading, creating, updating, and deleting data in your app.
+3. Be ready to explain how React, Flask, and the database work together.
+4. Be ready to explain how your backend was deployed.
+5. Be ready to make one small change during the interview.
 
 #### Submission
 
-Git repo link and API URL.
+GitHub repo link
 
 #### Rubric (20 pts)
 
-- Lambda and API work end to end 0-5
-- Error handling present 0-5
-- Project runs from README 0-5
-- Configuration clarity 0-5
+- Clear explanation of code and choices 0-5
+- Live task completed 0-5
+- Project runs correctly 0-5
+- Communication within time 0-5

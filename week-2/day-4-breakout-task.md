@@ -1,9 +1,17 @@
 #### Goal
 
-Update and delete with clear statuses
+Practice organizing a Flask app and using environment variables.
 
 #### Steps
 
-1. Implement PATCH or PUT /items/:id to update a row. Return 200 on success, 404 when not found.
-2. Implement DELETE /items/:id. Return 204 on success, 404 when not found.
-3. Extra practice if you want
+1. Complete what we built in lecture.
+2. Move repeated code into a helper or second file.
+3. Add an environment variable to your project.
+4. Read that environment variable in Flask.
+5. Be ready to explain what should stay secret in a backend project.
+
+#### Extra practice if you want
+
+- Add a config value for a message or app name.
+- Create a helper function for building a response.
+- Add one more route that uses the helper.

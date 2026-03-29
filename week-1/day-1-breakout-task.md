@@ -1,12 +1,17 @@
 #### Goal
 
-Start an Express server and return JSON from two GET routes that imitate a public API.
+Run Python from the terminal and practice basic values, variables, and output.
 
 #### Steps
 
-1. Stand up Express and add a root route that returns JSON.
-2. Pick any public API and model two GET route responses after it.
-3. Extra practice if you want
-   - add one POST that returns JSON you define
-   - time yourself rebuilding the server from scratch
-   - try a tool that speeds your workflow (nodemon or a REST client)
+1. Complete what we built in lecture.
+2. Create a Python file and run it from the terminal.
+3. Print strings, numbers, and variables.
+4. Create a few variables using different data types.
+5. Be ready to explain what Python is doing line by line.
+
+#### Extra practice if you want
+
+- Ask the user for input with `input()`.
+- Convert a string to a number.
+- Build a small terminal greeting program.
